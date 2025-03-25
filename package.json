@@ -1,6 +1,6 @@
 {
   "name": "@surface.dev/utils",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Surface Utility Functions",
   "keywords": [
     "javascript",
@@ -45,10 +45,6 @@
     "prettier": "^2.1.2",
     "pretty-quick": "^3.1.0",
     "rimraf": "^3.0.2",
-    "typescript": "5.5.3",
-    "webpack": "^5.4.0",
-    "webpack-cli": "^4.2.0"
-  },
-  "jsdelivr": "dist/umd/surface-utils.js",
-  "unpkg": "dist/umd/surface-utils.js"
+    "typescript": "5.5.3"
+  }
 }
