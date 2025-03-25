@@ -1,7 +1,7 @@
 {
   "name": "@surface.dev/utils",
-  "version": "0.0.1",
-  "description": "Surface utility functions",
+  "version": "0.0.2",
+  "description": "Surface Utility Functions",
   "keywords": [
     "javascript",
     "typescript",
